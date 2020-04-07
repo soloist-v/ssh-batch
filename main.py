@@ -443,7 +443,7 @@ class MainWindow(QMainWindow):
         self.label_2.setText(_translate("MainWindow", "用户名："))
         self.te_user.setText(_translate("MainWindow", "root"))
         self.label_3.setText(_translate("MainWindow", "密码："))
-        self.te_pwd.setText(_translate("MainWindow", "522121803.a"))
+        self.te_pwd.setText(_translate("MainWindow", "123456"))
         self.label_4.setText(_translate("MainWindow", "端口："))
         self.te_port.setText(_translate("MainWindow", "22"))
         self.label_5.setText(_translate("MainWindow", "同时最大连接数："))
